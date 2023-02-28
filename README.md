@@ -19,4 +19,4 @@ Someday I will add an ui tool for this.
 
 ## Build details
 
-Use [Visual studio 2022](visualstudio.microsoft.com) to build solution
+Use [Visual Studio 2022](https://visualstudio.microsoft.com) to build solution
